@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-179-utix-build-anomaly-detection-report-for-unusual",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-179-utix-build-anomaly-detection-report-for-unusual": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-179-utix-build-anomaly-detection-report-for-unusual",
+    "origin"
+  ]
+}
